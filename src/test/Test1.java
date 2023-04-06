@@ -11,7 +11,7 @@ public class Test1 {
 		// 대입 => 변수명 = 값;  d sdfd 
 		// 선언 및 대입 => 자료형 변수명 = 값;    
 		
-		int level = 1011111111; 
+		int level = 101111111; 
 		System.out.println("level : " + level);   // 10
 		
 		
